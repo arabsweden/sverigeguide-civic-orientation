@@ -1,0 +1,6 @@
+{
+  "name": "SverigeGuide - Swedish Civic Orientation",
+  "description": "Comprehensive trilingual (Arabic, Swedish, English) civic orientation and integration platform for newcomers to Sweden, featuring modules, interactive question bank, AI civics advisor, authority directory, law tracker, and municipal hub.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
